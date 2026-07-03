@@ -1,0 +1,17 @@
+LOBBY_SETTINGS:
+  PREFIX: "&8[&bLobbySettings&8] "
+
+  COMMANDS:
+    NO_PERMISSION: "&cНет прав."
+    ONLY_PLAYER: "&cЭту команду может выполнить только игрок."
+    RELOADED: "&aКонфиг и язык перезагружены."
+    SPAWN_SET: "&aСпавн лобби установлен."
+    LANG_UPDATE_DISABLED: "&cОбновление языка выключено в config.yml."
+    LANG_UPDATE_NO_URL: "&cСначала укажи ссылку на файл языка в config.yml."
+    LANG_UPDATE_STARTED: "&7Скачиваю файл языка..."
+    LANG_UPDATE_SUCCESS: "&aФайл языка обновлен и перезагружен."
+    LANG_UPDATE_FAILED: "&cНе удалось обновить файл языка. Проверь консоль."
+    HELP_HEADER: "&bLobbySettings &7v{version}"
+    HELP_RELOAD: "&7/lobbysettings reload &8- &fперезагрузить конфиг и язык"
+    HELP_SETSPAWN: "&7/lobbysettings setspawn &8- &fпоставить спавн лобби"
+    HELP_LANGUPDATE: "&7/lobbysettings langupdate &8- &fскачать язык по ссылке"
