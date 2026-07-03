@@ -1,5 +1,5 @@
 LOBBY_SETTINGS:
-  PREFIX: "&8[&bLobbySettings&8] "
+  PREFIX: "&x&F&F&0&0&0&0Красный текст"
 
   COMMANDS:
     NO_PERMISSION: "&cНет прав."
