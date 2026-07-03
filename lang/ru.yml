@@ -1,17 +1,13 @@
 LOBBY_SETTINGS:
-  PREFIX: "&x&F&F&0&0&0&0Красный текст"
+  PREFIX: "§4С§cи§4с§cт§4е§cм§4а §8|§f "
 
   COMMANDS:
-    NO_PERMISSION: "&cНет прав."
+    NO_PERMISSION: "&cОшибка, у вас нет прав!"
     ONLY_PLAYER: "&cЭту команду может выполнить только игрок."
-    RELOADED: "&aКонфиг и язык перезагружены."
-    SPAWN_SET: "&aСпавн лобби установлен."
+    RELOADED: "Конфигурация успешно перезагружена!"
+    SPAWN_SET: "Спавн лобби успешно установлен :)"
     LANG_UPDATE_DISABLED: "&cОбновление языка выключено в config.yml."
     LANG_UPDATE_NO_URL: "&cСначала укажи ссылку на файл языка в config.yml."
     LANG_UPDATE_STARTED: "&7Скачиваю файл языка..."
     LANG_UPDATE_SUCCESS: "&aФайл языка обновлен и перезагружен."
     LANG_UPDATE_FAILED: "&cНе удалось обновить файл языка. Проверь консоль."
-    HELP_HEADER: "&bLobbySettings &7v{version}"
-    HELP_RELOAD: "&7/lobbysettings reload &8- &fперезагрузить конфиг и язык"
-    HELP_SETSPAWN: "&7/lobbysettings setspawn &8- &fпоставить спавн лобби"
-    HELP_LANGUPDATE: "&7/lobbysettings langupdate &8- &fскачать язык по ссылке"
